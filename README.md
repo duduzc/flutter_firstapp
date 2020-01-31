@@ -1,16 +1,19 @@
-# flutter_app
+# Flutter_app
 
-A new Flutter application.
+**macOS install**
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [ ]  Verify if Xcode installed
+- [ ]  Verify if Android Studio installed
+- [ ]  Download Flutter ( [https://flutter.dev/docs/get-started/install/macos](https://flutter.dev/docs/get-started/install/macos) )
+- [ ]  Create **Developer** folder in your mac user
+- [ ]  Extract flutter in this folder
+- [ ]  Go to mac user folder and press ( command + shift + . ) for show hidden files
+- [ ]  If you don´t **.bash_profile** file, create one
+- [ ]  Paste the line ( export PATH="$PATH:/Users/YOURUSER/Developer/flutter/bin" )
+- [ ]  For verify if flutter was installed, enter ( flutter doctor )
+- [ ]  If you have issues, in flutter doctor you will see instructions for resolve your problems
+- [ ]  In Android Studio go to ( configure → plugins ), search and install flutter and dart, after restart   ide
+- [ ]  For create a first flutter app open android studio and select ( Start a new Flutter project )
+- [ ]  Select flutter application
+- [ ]  Enter name your project ( flutter_name )
+- [ ]  So start code your ideas
